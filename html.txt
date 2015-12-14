@@ -1,0 +1,421 @@
+
+<!DOCTYPE html>
+<html dir="ltr" lang="zh">
+<head>
+<!-- BEGIN html head -->
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=yes;">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="cache-control" content="no-transform" />
+<title>妹子图</title>
+<link rel="stylesheet" href="http://s.jandan.com/wp-content/themes/iphone/style.css?v=20151120" type="text/css" media="screen" />
+<link rel="shortcut icon" href="http://s.jandan.com/static/img/favicon.ico" />
+<link rel="icon" sizes="192x192"  href="http://s.jandan.com/static/img/icon.png">
+<link rel="apple-touch-icon-precomposed" href="http://s.jandan.com/static/img/icon.png">
+<link rel="canonical" href="http://jandan.net/ooxx" /><!--[if lt IE 9]>
+<script src="//lib.sinaapp.com/js/jquery/1.10.2/jquery-1.10.2.min.js"></script>
+<![endif]-->
+<!--[if gte IE 9]><!-->
+<script src="//lib.sinaapp.com/js/jquery/2.0.3/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+<script src="http://s.jandan.com/static/js/jquery.lazyload.min.js?v=20151214"></script>
+<script>
+	var options = {};
+	options.COOKIE_HASH = '596e6fb28c1bb47f949e65e1ae03f7f5';
+	options.SITE_URL = '';
+</script>
+<script type="text/javascript" src="http://player.youku.com/jsapi"></script>
+<script src="http://s.jandan.com/static/js/common.js?v=20151214"></script>
+<!--<![endif]-->
+<script>if (window!=top)top.location.href =window.location.href;</script>
+<script><!--
+	function fixImgs(whichId, maxW) {
+	var pix=document.getElementById(whichId).getElementsByTagName('img');
+	  for (i=0; i<pix.length; i++) {
+		w=pix[i].width;
+		h=pix[i].height;
+		if (w > maxW) {
+		  f=1-((w - maxW) / w);
+		  pix[i].width=w * f;
+		  pix[i].height=h * f;
+		}
+	  }
+	}
+	//--></script>
+</head>
+<body onload="fixImgs('pagewrapper', 320)">
+<div id="pagewrapper">
+	<div id="headerwrapper">
+		<div id="headerimg">
+			<h1><a href="http://i.jandan.net/">煎蛋</a></h1>
+		</div>
+                <div id="head-nav">
+            <a href="/" >首页</a>
+            <a href="/v" >小电影</a>
+            <a href="/duan" >段子</a>
+            <a href="http://g.jandan.net/n/hanzi" target=_blank>汉子</a>
+            <a href="/ooxx" class="here">妹子</a>
+            <a href="/pic" >无聊图</a>
+                </div>
+	</div>
+
+<!-- header AD -->
+
+<div style="padding:10px;line-height:1.4em;border-bottom:1px solid #DDD;" class="comment-hide wechat-hide">
+<!-- wap -->
+<a href="http://i.jandan.net/money.php?redirect_id=105" target="_blank" rel="external nofollow"><img src="http://s.jandan.com/static/gg/wzzb668-2.png" border="0" height="60" width="320"><br><font color="#888">爆！23岁少女买【双色球】中2.3亿内幕秘籍 </font></a></div>
+	<div id="mainwrapper" class="clearfix">
+		<div id="maincontent">
+							<div class="post">
+					<div class="posthit">
+						<div class="entry">
+							<p>[1] 图片请上传到 <a target=_blank rel="external" href="http://photo.weibo.com/photos/upload">新浪微博相册</a>，在<a href="#respond">评论框</a>里粘帖图片地址即可发图<br />
+[2] 原创图请注明来源。发布后请等待审核，未通过审核的原因可能是重复图或者敏感图</p>
+<hr />
+													</div>
+						<!-- You can start editing here. -->
+	<div class="comments" id="comments">
+	<h3>已有41,139条评论 <span class="righttext"><a href="#head-nav"
+	                                                                                        title="回到页头">[ 上 ]</a>  <a
+				href="#respond" title="发表评论">[ 下 ]</a></span></h3>
+			<p class="wp-pagenavi"><span class="current-comment-page">[1646]</span> <a href="http://i.jandan.net/ooxx/page-1645#comments">1645</a> <a href="http://i.jandan.net/ooxx/page-1644#comments">1644</a>  <a class="previous-comment-page" href="http://i.jandan.net/ooxx/page-1645#comments" title="Older Comments">&raquo;</a></p>
+		<ol class="commentlist">
+							<li class="alt" id="comment-3008477">
+													<b>黄仁勋</b> <span class="time"><a href="#respond" title="@回复"
+				                                                            onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;http://i.jandan.net/ooxx/page-1646#comment-3008477&quot;&gt;黄仁勋&lt;/a&gt;: &#39;">@</a> 2015-12-14 14:21:11</span><span
+					class="righttext"><a href="http://i.jandan.net/ooxx/page-1646#comment-3008477">41138</a> </span>
+								<div class="commenttext"><p><a href="http://ww3.sinaimg.cn/mw1024/c449776dgw1eyz4xrhwcoj20f20eb3z7.jpg" target="_blank" class="view_img_link">[查看原图]</a><br /><img src="http://ww3.sinaimg.cn/mw600/c449776dgw1eyz4xrhwcoj20f20eb3z7.jpg" /><br />
+<a href="http://ww1.sinaimg.cn/mw1024/c449776dgw1eyz4xqs78tj20f10cyaar.jpg" target="_blank" class="view_img_link">[查看原图]</a><br /><img src="http://ww1.sinaimg.cn/mw600/c449776dgw1eyz4xqs78tj20f10cyaar.jpg" /></p>
+<div class="vote" id="vote-3008477"><span id="acv_stat_3008477"></span><a title="圈圈/支持" class="acvclick acv4" id="vote4-3008477" href="javascript:acv_vote(3008477,1);">oo</a> [<span id="cos_support-3008477">10</span>] <a title="叉叉/反对" class="acvclick acva"  id="votea-3008477"  href="javascript:acv_vote(3008477,0);">xx</a> [<span id="cos_unsupport-3008477">2</span>]</div>
+</div>
+
+            </li>
+
+                                                
+<!-- comments-paged AD -->
+
+											<li class="" id="comment-3008153">
+													<b>ko7or</b> <span class="time"><a href="#respond" title="@回复"
+				                                                            onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;http://i.jandan.net/ooxx/page-1646#comment-3008153&quot;&gt;ko7or&lt;/a&gt;: &#39;">@</a> 2015-12-14 01:28:51</span><span
+					class="righttext"><a href="http://i.jandan.net/ooxx/page-1646#comment-3008153">41137</a> </span>
+								<div class="commenttext"><p><a href="http://ww1.sinaimg.cn/mw1024/63656937gw1esb5ev97xfj20f00erwfv.jpg" target="_blank" class="view_img_link">[查看原图]</a><br /><img src="http://ww1.sinaimg.cn/mw600/63656937gw1esb5ev97xfj20f00erwfv.jpg" /></p>
+<div class="vote" id="vote-3008153"><span id="acv_stat_3008153"></span><a title="圈圈/支持" class="acvclick acv4" id="vote4-3008153" href="javascript:acv_vote(3008153,1);">oo</a> [<span id="cos_support-3008153">215</span>] <a title="叉叉/反对" class="acvclick acva"  id="votea-3008153"  href="javascript:acv_vote(3008153,0);">xx</a> [<span id="cos_unsupport-3008153">8</span>]</div>
+</div>
+
+            </li>
+
+                                                
+<!-- comments-paged AD -->
+
+											<li class="alt" id="comment-3008121">
+													<b>换电池哥</b> <span class="time"><a href="#respond" title="@回复"
+				                                                            onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;http://i.jandan.net/ooxx/page-1646#comment-3008121&quot;&gt;换电池哥&lt;/a&gt;: &#39;">@</a> 2015-12-14 00:21:11</span><span
+					class="righttext"><a href="http://i.jandan.net/ooxx/page-1646#comment-3008121">41136</a> </span>
+								<div class="commenttext"><p><a href="http://ww2.sinaimg.cn/mw1024/9e6b7fdbjw1eyychbhhzbj20dw0dwq4m.jpg" target="_blank" class="view_img_link">[查看原图]</a><br /><img src="http://ww2.sinaimg.cn/mw600/9e6b7fdbjw1eyychbhhzbj20dw0dwq4m.jpg" /></p>
+<div class="vote" id="vote-3008121"><span id="acv_stat_3008121"></span><a title="圈圈/支持" class="acvclick acv4" id="vote4-3008121" href="javascript:acv_vote(3008121,1);">oo</a> [<span id="cos_support-3008121">12</span>] <a title="叉叉/反对" class="acvclick acva"  id="votea-3008121"  href="javascript:acv_vote(3008121,0);">xx</a> [<span id="cos_unsupport-3008121">83</span>]</div>
+</div>
+
+            </li>
+
+                                                
+<!-- comments-paged AD -->
+
+											<li class="" id="comment-3008036">
+													<b>叼你老屎</b> <span class="time"><a href="#respond" title="@回复"
+				                                                            onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;http://i.jandan.net/ooxx/page-1646#comment-3008036&quot;&gt;叼你老屎&lt;/a&gt;: &#39;">@</a> 2015-12-13 22:55:35</span><span
+					class="righttext"><a href="http://i.jandan.net/ooxx/page-1646#comment-3008036">41135</a> </span>
+								<div class="commenttext"><p><a href="http://ww2.sinaimg.cn/mw1024/4bc1f272gw1eyy2o53bo9j20dw08kdgn.jpg" target="_blank" class="view_img_link">[查看原图]</a><br /><img src="http://ww2.sinaimg.cn/mw600/4bc1f272gw1eyy2o53bo9j20dw08kdgn.jpg" /><br />
+<a href="http://ww1.sinaimg.cn/mw1024/4bc1f272gw1eyy2ntkzd4j20az0733zf.jpg" target="_blank" class="view_img_link">[查看原图]</a><br /><img src="http://ww1.sinaimg.cn/mw600/4bc1f272gw1eyy2ntkzd4j20az0733zf.jpg" /><br />
+<a href="http://ww3.sinaimg.cn/mw1024/4bc1f272gw1eyy2nw2xt1j20gn0nk0vg.jpg" target="_blank" class="view_img_link">[查看原图]</a><br /><img src="http://ww3.sinaimg.cn/mw600/4bc1f272gw1eyy2nw2xt1j20gn0nk0vg.jpg" /></p>
+<div class="vote" id="vote-3008036"><span id="acv_stat_3008036"></span><a title="圈圈/支持" class="acvclick acv4" id="vote4-3008036" href="javascript:acv_vote(3008036,1);">oo</a> [<span id="cos_support-3008036">103</span>] <a title="叉叉/反对" class="acvclick acva"  id="votea-3008036"  href="javascript:acv_vote(3008036,0);">xx</a> [<span id="cos_unsupport-3008036">11</span>]</div>
+</div>
+
+            </li>
+
+                                    <span class="break"></span><li class="row" ID="adsense">
+<div style="padding:10px;">
+<!-- m-baidu -->
+<script type="text/javascript">
+    /*20:3-mobile*/
+    var cpro_id = "u1962197";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/cm.js" type="text/javascript"></script></div>
+                    </li>            
+<!-- comments-paged AD -->
+
+											<li class="alt" id="comment-3007928">
+													<b>大爷来玩嘛</b> <span class="time"><a href="#respond" title="@回复"
+				                                                            onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;http://i.jandan.net/ooxx/page-1646#comment-3007928&quot;&gt;大爷来玩嘛&lt;/a&gt;: &#39;">@</a> 2015-12-13 20:14:02</span><span
+					class="righttext"><a href="http://i.jandan.net/ooxx/page-1646#comment-3007928">41134</a> </span>
+								<div class="commenttext"><p><a href="http://ww3.sinaimg.cn/mw1024/005vbOHfgw1eyyafzg4o4j30kr0cxmzd.jpg" target="_blank" class="view_img_link">[查看原图]</a><br /><img src="http://ww3.sinaimg.cn/mw600/005vbOHfgw1eyyafzg4o4j30kr0cxmzd.jpg" /></p>
+<div class="vote" id="vote-3007928"><span id="acv_stat_3007928"></span><a title="圈圈/支持" class="acvclick acv4" id="vote4-3007928" href="javascript:acv_vote(3007928,1);">oo</a> [<span id="cos_support-3007928">69</span>] <a title="叉叉/反对" class="acvclick acva"  id="votea-3007928"  href="javascript:acv_vote(3007928,0);">xx</a> [<span id="cos_unsupport-3007928">40</span>]</div>
+</div>
+
+            </li>
+
+                                                
+<!-- comments-paged AD -->
+
+											<li class="" id="comment-3007924">
+													<b>大爷来玩嘛</b> <span class="time"><a href="#respond" title="@回复"
+				                                                            onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;http://i.jandan.net/ooxx/page-1646#comment-3007924&quot;&gt;大爷来玩嘛&lt;/a&gt;: &#39;">@</a> 2015-12-13 20:13:29</span><span
+					class="righttext"><a href="http://i.jandan.net/ooxx/page-1646#comment-3007924">41133</a> </span>
+								<div class="commenttext"><p><a href="http://ww3.sinaimg.cn/mw1024/005vbOHfgw1eyyafvgy2cj30b10frq58.jpg" target="_blank" class="view_img_link">[查看原图]</a><br /><img src="http://ww3.sinaimg.cn/mw600/005vbOHfgw1eyyafvgy2cj30b10frq58.jpg" /></p>
+<div class="vote" id="vote-3007924"><span id="acv_stat_3007924"></span><a title="圈圈/支持" class="acvclick acv4" id="vote4-3007924" href="javascript:acv_vote(3007924,1);">oo</a> [<span id="cos_support-3007924">51</span>] <a title="叉叉/反对" class="acvclick acva"  id="votea-3007924"  href="javascript:acv_vote(3007924,0);">xx</a> [<span id="cos_unsupport-3007924">8</span>]</div>
+</div>
+
+            </li>
+
+                                                
+<!-- comments-paged AD -->
+
+											<li class="alt" id="comment-3007923">
+													<b>震动</b> <span class="time"><a href="#respond" title="@回复"
+				                                                            onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;http://i.jandan.net/ooxx/page-1646#comment-3007923&quot;&gt;震动&lt;/a&gt;: &#39;">@</a> 2015-12-13 20:12:46</span><span
+					class="righttext"><a href="http://i.jandan.net/ooxx/page-1646#comment-3007923">41132</a> </span>
+								<div class="commenttext"><p><a href="http://ww3.sinaimg.cn/mw1024/78df33d3gw1eyyagfxnpoj21kv1kwe4r.jpg" target="_blank" class="view_img_link">[查看原图]</a><br /><img src="http://ww3.sinaimg.cn/mw600/78df33d3gw1eyyagfxnpoj21kv1kwe4r.jpg" /></p>
+<div class="vote" id="vote-3007923"><span id="acv_stat_3007923"></span><a title="圈圈/支持" class="acvclick acv4" id="vote4-3007923" href="javascript:acv_vote(3007923,1);">oo</a> [<span id="cos_support-3007923">73</span>] <a title="叉叉/反对" class="acvclick acva"  id="votea-3007923"  href="javascript:acv_vote(3007923,0);">xx</a> [<span id="cos_unsupport-3007923">11</span>]</div>
+</div>
+
+            </li>
+
+                                                
+<!-- comments-paged AD -->
+
+											<li class="" id="comment-3007920">
+													<b>大爷来玩嘛</b> <span class="time"><a href="#respond" title="@回复"
+				                                                            onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;http://i.jandan.net/ooxx/page-1646#comment-3007920&quot;&gt;大爷来玩嘛&lt;/a&gt;: &#39;">@</a> 2015-12-13 20:12:06</span><span
+					class="righttext"><a href="http://i.jandan.net/ooxx/page-1646#comment-3007920">41131</a> </span>
+								<div class="commenttext"><p><a href="http://ww1.sinaimg.cn/mw1024/005vbOHfgw1eyyafp1pd9j30s9155jxp.jpg" target="_blank" class="view_img_link">[查看原图]</a><br /><img src="http://ww1.sinaimg.cn/mw600/005vbOHfgw1eyyafp1pd9j30s9155jxp.jpg" /></p>
+<div class="vote" id="vote-3007920"><span id="acv_stat_3007920"></span><a title="圈圈/支持" class="acvclick acv4" id="vote4-3007920" href="javascript:acv_vote(3007920,1);">oo</a> [<span id="cos_support-3007920">56</span>] <a title="叉叉/反对" class="acvclick acva"  id="votea-3007920"  href="javascript:acv_vote(3007920,0);">xx</a> [<span id="cos_unsupport-3007920">11</span>]</div>
+</div>
+
+            </li>
+
+                                                
+<!-- comments-paged AD -->
+
+											<li class="alt" id="comment-3007914">
+													<b>honesty</b> <span class="time"><a href="#respond" title="@回复"
+				                                                            onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;http://i.jandan.net/ooxx/page-1646#comment-3007914&quot;&gt;honesty&lt;/a&gt;: &#39;">@</a> 2015-12-13 20:07:57</span><span
+					class="righttext"><a href="http://i.jandan.net/ooxx/page-1646#comment-3007914">41130</a> </span>
+								<div class="commenttext"><p><a href="http://ww4.sinaimg.cn/mw1024/6fcc980cgw1eyvwy2txj2j20m90xcjy3.jpg" target="_blank" class="view_img_link">[查看原图]</a><br /><img src="http://ww4.sinaimg.cn/mw600/6fcc980cgw1eyvwy2txj2j20m90xcjy3.jpg" /></p>
+<div class="vote" id="vote-3007914"><span id="acv_stat_3007914"></span><a title="圈圈/支持" class="acvclick acv4" id="vote4-3007914" href="javascript:acv_vote(3007914,1);">oo</a> [<span id="cos_support-3007914">20</span>] <a title="叉叉/反对" class="acvclick acva"  id="votea-3007914"  href="javascript:acv_vote(3007914,0);">xx</a> [<span id="cos_unsupport-3007914">12</span>]</div>
+</div>
+
+            </li>
+
+                                                
+<!-- comments-paged AD -->
+
+											<li class="" id="comment-3007906">
+													<b>rebecca</b> <span class="time"><a href="#respond" title="@回复"
+				                                                            onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;http://i.jandan.net/ooxx/page-1646#comment-3007906&quot;&gt;rebecca&lt;/a&gt;: &#39;">@</a> 2015-12-13 20:00:06</span><span
+					class="righttext"><a href="http://i.jandan.net/ooxx/page-1646#comment-3007906">41129</a> </span>
+								<div class="commenttext"><p><a href="http://ww4.sinaimg.cn/mw1024/68f6e545gw1eyya26e9r1g208607b1ks.gif" target="_blank" class="view_img_link">[查看原图]</a><br /><img src="http://ww4.sinaimg.cn/thumbnail/68f6e545gw1eyya26e9r1g208607b1ks.gif" org_src="http://ww4.sinaimg.cn/mw1024/68f6e545gw1eyya26e9r1g208607b1ks.gif" onload="add_img_loading_mask(this, load_sina_gif);"/></p>
+<div class="vote" id="vote-3007906"><span id="acv_stat_3007906"></span><a title="圈圈/支持" class="acvclick acv4" id="vote4-3007906" href="javascript:acv_vote(3007906,1);">oo</a> [<span id="cos_support-3007906">55</span>] <a title="叉叉/反对" class="acvclick acva"  id="votea-3007906"  href="javascript:acv_vote(3007906,0);">xx</a> [<span id="cos_unsupport-3007906">7</span>]</div>
+</div>
+
+            </li>
+
+                                                
+<!-- comments-paged AD -->
+
+											<li class="alt" id="comment-3007803">
+													<b>风的印迹</b> <span class="time"><a href="#respond" title="@回复"
+				                                                            onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;http://i.jandan.net/ooxx/page-1646#comment-3007803&quot;&gt;风的印迹&lt;/a&gt;: &#39;">@</a> 2015-12-13 17:28:47</span><span
+					class="righttext"><a href="http://i.jandan.net/ooxx/page-1646#comment-3007803">41128</a> </span>
+								<div class="commenttext"><p>本人微博上看不到这些妹子图，请见谅。若需要无水印的妹子图，请微博上私信。<br />
+<a href="http://ww1.sinaimg.cn/mw1024/4bf31e43jw1eyy5m14rk2j20ou0zk11c.jpg" target="_blank" class="view_img_link">[查看原图]</a><br /><img src="http://ww1.sinaimg.cn/mw600/4bf31e43jw1eyy5m14rk2j20ou0zk11c.jpg" /></p>
+<div class="vote" id="vote-3007803"><span id="acv_stat_3007803"></span><a title="圈圈/支持" class="acvclick acv4" id="vote4-3007803" href="javascript:acv_vote(3007803,1);">oo</a> [<span id="cos_support-3007803">39</span>] <a title="叉叉/反对" class="acvclick acva"  id="votea-3007803"  href="javascript:acv_vote(3007803,0);">xx</a> [<span id="cos_unsupport-3007803">19</span>]</div>
+</div>
+
+            </li>
+
+                                                
+<!-- comments-paged AD -->
+
+											<li class="" id="comment-3007802">
+													<b>风的印迹</b> <span class="time"><a href="#respond" title="@回复"
+				                                                            onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;http://i.jandan.net/ooxx/page-1646#comment-3007802&quot;&gt;风的印迹&lt;/a&gt;: &#39;">@</a> 2015-12-13 17:27:35</span><span
+					class="righttext"><a href="http://i.jandan.net/ooxx/page-1646#comment-3007802">41127</a> </span>
+								<div class="commenttext"><p><a href="http://ww1.sinaimg.cn/mw1024/4bf31e43jw1eyy5lytqq7j20dw0kuwgn.jpg" target="_blank" class="view_img_link">[查看原图]</a><br /><img src="http://ww1.sinaimg.cn/mw600/4bf31e43jw1eyy5lytqq7j20dw0kuwgn.jpg" /></p>
+<div class="vote" id="vote-3007802"><span id="acv_stat_3007802"></span><a title="圈圈/支持" class="acvclick acv4" id="vote4-3007802" href="javascript:acv_vote(3007802,1);">oo</a> [<span id="cos_support-3007802">72</span>] <a title="叉叉/反对" class="acvclick acva"  id="votea-3007802"  href="javascript:acv_vote(3007802,0);">xx</a> [<span id="cos_unsupport-3007802">9</span>]</div>
+</div>
+
+            </li>
+
+                                                
+<!-- comments-paged AD -->
+
+											<li class="alt" id="comment-3007800">
+													<b>风的印迹</b> <span class="time"><a href="#respond" title="@回复"
+				                                                            onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;http://i.jandan.net/ooxx/page-1646#comment-3007800&quot;&gt;风的印迹&lt;/a&gt;: &#39;">@</a> 2015-12-13 17:26:58</span><span
+					class="righttext"><a href="http://i.jandan.net/ooxx/page-1646#comment-3007800">41126</a> </span>
+								<div class="commenttext"><p><a href="http://ww1.sinaimg.cn/mw1024/4bf31e43jw1eyy5lw09lpj20nw0zkgxj.jpg" target="_blank" class="view_img_link">[查看原图]</a><br /><img src="http://ww1.sinaimg.cn/mw600/4bf31e43jw1eyy5lw09lpj20nw0zkgxj.jpg" /></p>
+<div class="vote" id="vote-3007800"><span id="acv_stat_3007800"></span><a title="圈圈/支持" class="acvclick acv4" id="vote4-3007800" href="javascript:acv_vote(3007800,1);">oo</a> [<span id="cos_support-3007800">38</span>] <a title="叉叉/反对" class="acvclick acva"  id="votea-3007800"  href="javascript:acv_vote(3007800,0);">xx</a> [<span id="cos_unsupport-3007800">11</span>]</div>
+</div>
+
+            </li>
+
+                                                
+<!-- comments-paged AD -->
+
+											<li class="" id="comment-3007798">
+													<b>风的印迹</b> <span class="time"><a href="#respond" title="@回复"
+				                                                            onclick="document.getElementById('comment').value += &#39;@&lt;a href=&quot;http://i.jandan.net/ooxx/page-1646#comment-3007798&quot;&gt;风的印迹&lt;/a&gt;: &#39;">@</a> 2015-12-13 17:26:04</span><span
+					class="righttext"><a href="http://i.jandan.net/ooxx/page-1646#comment-3007798">41125</a> </span>
+								<div class="commenttext"><p><a href="http://ww2.sinaimg.cn/mw1024/4bf31e43jw1eyy5lspsjsj20hs0rwn1g.jpg" target="_blank" class="view_img_link">[查看原图]</a><br /><img src="http://ww2.sinaimg.cn/mw600/4bf31e43jw1eyy5lspsjsj20hs0rwn1g.jpg" /></p>
+<div class="vote" id="vote-3007798"><span id="acv_stat_3007798"></span><a title="圈圈/支持" class="acvclick acv4" id="vote4-3007798" href="javascript:acv_vote(3007798,1);">oo</a> [<span id="cos_support-3007798">26</span>] <a title="叉叉/反对" class="acvclick acva"  id="votea-3007798"  href="javascript:acv_vote(3007798,0);">xx</a> [<span id="cos_unsupport-3007798">8</span>]</div>
+</div>
+
+            </li>
+
+                                                
+<!-- comments-paged AD -->
+
+									</ol>
+			<p class="wp-pagenavi"><span class="current-comment-page">[1646]</span> <a href="http://i.jandan.net/ooxx/page-1645#comments">1645</a> <a href="http://i.jandan.net/ooxx/page-1644#comments">1644</a>  <a class="previous-comment-page" href="http://i.jandan.net/ooxx/page-1645#comments" title="Older Comments">&raquo;</a></p>
+	
+<div class="comments">
+<h3><p id="respond"></p></h3>
+<p><span><a href="#head-nav" title="回到页头">[ 上 ]</a> <a href="#respond" onclick="document.getElementById('comment').value +=  &#39;&lt;img src=&quot;&quot; /&gt;&#39;" title="快捷贴图">[ IMG ]</a></span></p>
+</div>
+	<form action="http://i.jandan.net/wp-comments-post.php" method="post" id="commentform">
+		<div class="hide-input">
+		<p><label for="author">称呼: </label><input type="text" name="author" id="author"
+		                                          value=""
+		                                          title="常用的网络 ID，必填项" size="22" tabindex="1" style="width:100%;"/></p>
+
+		<p><label for="email">邮箱: </label><input type="text" name="email" id="email"
+		                                         value=""
+		                                         title="真实 Email 地址，必填项" size="22" tabindex="2" style="width:100%;"/>
+		</p>
+	</div>
+
+		<p><textarea name="comment" id="comment" cols="70" rows="10" tabindex="4" style="width:96%;"></textarea></p>
+		<p><input name="submit" type="submit" id="submit" tabindex="5" value="猛击发送" />
+		<input type="hidden" name="comment_post_ID" value="21183" /></p>
+		<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="5f44aa91cf" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="229"/></p>	</form>
+</div>
+
+
+					</div>
+				</div>
+					</div>
+		<script type="text/javascript">
+	var duoshuoQuery = {short_name:"jandan"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = 'http://static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+</script>
+<script src="http://s.jandan.com/static/js/tucao.js?v=20150930"></script>
+<div id="tucao-gg">
+    <div style="padding:10px;">
+    <!-- m[adx+taobao] -->
+    <script type="text/javascript"><!--
+google_ad_client = "ca-pub-5673546663729848";
+/* 煎蛋网-wap站-320x100 */
+google_ad_slot = "1965170595/jandannet-wap-320x100";
+google_ad_width = 320;
+google_ad_height = 100;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>    </div>
+</div>				<script>
+	$('.commentlist li p img').each(function (imgIndex) {
+		var max_width = $(this).parent().parent().width();
+		$(this).css('max-width', max_width);
+		$(this).css('max-height', '450px').click(function () {
+			var $this = $(this);
+			if ($this.css('max-height') == 'none') {
+				var max_width = $(this).parent().parent().width();
+				$this.css('max-width', max_width);
+				$this.css('max-height', '450px');
+			} else {
+				$this.css('max-width', '100%');
+				$this.css('max-height', 'none');
+			}
+			$("html,body").animate(
+				{
+					scrollTop: $this.offset().top - 40
+				},
+				325
+			);
+		});
+	});
+</script>	</div>
+<!-- close of pagewrapper -->
+<script src="http://s.jandan.com/static/js/comments-ajax-i.js?v=20151028"></script>
+<script>
+	jQuery.ajax({
+		type: 'GET',
+		url: 'http://i.jandan.net/wp-content/plugins/wp-postviews/wp-postviews.php',
+		data: 'postviews_id=21183&action=postviews',
+		cache: false
+	});
+</script>
+<script>
+	$("img.lazy").each(function() {
+		$(this).lazyload({
+			effect : "fadeIn"
+		});
+	});
+
+	jQuery(document).ready(function () {
+		var id = /^#comment-/;
+		var at = /^/;
+		jQuery('.commentlist li p a').each(function () {
+			if (jQuery(this).attr('href').match(id) && jQuery(this).text().match(at)) {
+				jQuery(this).addClass('atreply')
+			}
+		});
+		jQuery('.atreply').hover(function () {
+			jQuery(jQuery(this).attr('href')).clone().hide().insertAfter(jQuery(this).parents('li')).attr('id', '').addClass('tip').fadeIn(200)
+		}, function () {
+			jQuery('.tip').fadeOut(400, function () {
+				jQuery(this).remove()
+			})
+		});
+		jQuery('.atreply').mousemove(function (e) {
+			jQuery('.tip').css({left: (e.clientX + 18), top: (e.pageY + 18)})
+		})
+
+		if (/(micromessenger)/i.test(navigator.userAgent)) {
+			$('.wechat-hide').remove();
+		}
+
+		if (getCookie('comment_author_'+ options.COOKIE_HASH)) {
+			$('.comment-hide').remove();
+		}
+	});
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-462921-13', 'auto');
+  ga('send', 'pageview');
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?80cbcbf4e9167bc878bc1158463bab9d";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+<div id="footer">
+	<p> &copy; 2006-2015. 煎蛋，每日最新鲜。<script>//document.write(navigator.userAgent)</script></p>
+	<!-- 15 queries. 0.142 seconds. -->
+</div>
+</body>
+</html>
