@@ -3,21 +3,23 @@
 
 import urllib2
 import os
+import time
 import random
 
 def url_open(url):
     req = urllib2.Request(url)
-    req.add_header('User-Agent',"Mozilla/5.0 (X11; U; Linux i686) Gecko/20071127 Firefox/2.0.0.11")
+    req.add_header('User-Agent',"Mozilla/5.0 (Linux; Android 4.4.4; en-us; Nexus 5 Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2307.2 Mobile Safari/537.36")
 
-    proxies = ['171.38.24.46:8123','182.88.231.145:8123','183.95.81.100:80']
-    proxy = random.choice(proxies)
+    # proxies = ['120.195.198.69:80','120.195.195.249:80','112.64.28.11:8090']
+    # proxy = random.choice(proxies)
+    #
+    # proxy_support = urllib2.ProxyHandler({'http':proxy})
+    # opener = urllib2.build_opener(proxy_support)
+    # urllib2.install_opener(opener)
 
-    proxy_support = urllib2.ProxyHandler({'http':proxy})
-    opener = urllib2.build_opener(proxy_support)
-    urllib2.install_opener(opener)
-
-    response = urllib2.urlopen(url)
+    response = urllib2.urlopen(req)
     html = response.read()
+    #print html
     return html
 
 def get_page(url):
@@ -39,6 +41,9 @@ def find_imgs(url):
         else:
             b = a+9
         a = html.find("img src=",b)
+    for i in range(len(img_addrs)):
+        img_addrs[i] = 'http://'+img_addrs[i].split('http://')[1]
+    print img_addrs
     return img_addrs
 
 def save_imgs(folder,img_addrs):
@@ -49,17 +54,21 @@ def save_imgs(folder,img_addrs):
             f.write(img)
 
 def download_mm(folder = "E:\\ooxx",pages = 10):
-    os.mkdir(folder)
+    if not os.path.exists(folder):
+        os.mkdir(folder)
     os.chdir(folder)
 
-    url = "http://jandan.net/ooxx"
+    url = "http://i.jandan.net/ooxx"
     page_num = int(get_page(url))
 
     for i in range(pages):
-        page_num -=i
-        page_url = url+'page-'+str(page_num)+'+comments'
+        page_num -=1
+        print page_num
+        page_url = url+'/page-'+str(page_num)+'#comments'
         img_addrs = find_imgs(page_url)
+        print page_url
         save_imgs(folder,img_addrs)
+        time.sleep(random.randint(0,5))
 
 if __name__ == '__main__':
     download_mm()
