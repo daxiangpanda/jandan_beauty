@@ -9,7 +9,7 @@ import random
 
 def url_open(url):
     req = urllib2.Request(url)
-    req.add_header('User-Agent',r'Mozilla/5.0 (Windows NT 5.2) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30')
+    req.add_header('User-Agent',r'Mozilla/5.0 (Linux; U; en-us; KFAPWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.13 Safari/535.19 Silk-Accelerated=true')
     # proxies = ['120.195.198.69:80','120.195.195.249:80','112.64.28.11:8090']
     # proxy = random.choice(proxies)
     #
@@ -60,9 +60,9 @@ def download_mm(folder = "E:\\ooxx",pages = 1000):
         os.mkdir(folder)
     os.chdir(folder)
     url = "http://i.jandan.net/ooxx"
-    page_num = int(get_page(url))
+    page_num = 1599
 
-    for i in range(pages):
+    for i in range(1555):
         page_num -=1
         print page_num
         page_url = url+'/page-'+str(page_num)+'#comments'
