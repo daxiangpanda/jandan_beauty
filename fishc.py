@@ -16,8 +16,12 @@ def url_open(url):
     header5 = 'Mozilla/5.0 (PlayBook; U; RIM Tablet OS 2.1.0; en-US) AppleWebKit/536.2+ (KHTML like Gecko) Version/7.2.1.0 Safari/536.2+'
     header6 = 'Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.0.9.2372 Mobile Safari/537.10+'
     header7 = 'Mozilla/5.0 (Linux; Android 4.4.4; en-us; Nexus 5 Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2307.2 Mobile Safari/537.36'
-
-    header = [header1,header2,header3,header4,header5,header6,header7]
+    header8 = 'Mozilla/5.0 (Linux; Android 4.3; Nexus 10 Build/JSS15Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2307.2 Safari/537.36'
+    header9 = 'Mozilla/5.0 (Linux; Android 4.3; Nexus 7 Build/JSS15Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2307.2 Safari/537.36'
+    header10 = 'Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520)'
+    header11 = 'Mozilla/5.0 (MeeGo; NokiaN9) AppleWebKit/534.13 (KHTML, like Gecko) NokiaBrowser/8.5.0 Mobile Safari/534.13'
+    header12 = 'Mozilla/5.0 (Linux; U; Android 4.1; en-us; GT-N7100 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+    header = [header1,header2,header3,header4,header5,header6,header7,header9,header9,header10,header11,header12]
     req.add_header('User-Agent',random.choice(header))
     # proxies = ['120.195.198.69:80','120.195.195.249:80','112.64.28.11:8090']
     # proxy = random.choice(proxies)
@@ -39,7 +43,10 @@ def get_page(url):
     return html[a:b]
 
 def find_imgs(url):
-    html = url_open(url).decode('utf-8')
+    try:
+        html = url_open(url).decode('utf-8')
+    except urllib2.HTTPError:
+        html = url_open(url).decode('utf-8')
     img_addrs = []
 
     a = html.find('img src=')
@@ -69,9 +76,9 @@ def download_mm(folder = "E:\\ooxx",pages = 1000):
         os.mkdir(folder)
     os.chdir(folder)
     url = "http://i.jandan.net/ooxx"
-    page_num = 1599
+    page_num = 1434
 
-    for i in range(1555):
+    for i in range(1434):
         page_num -=1
         print page_num
         page_url = url+'/page-'+str(page_num)+'#comments'
