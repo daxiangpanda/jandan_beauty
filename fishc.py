@@ -21,7 +21,7 @@ def url_open(url):
     header10 = 'Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520)'
     header11 = 'Mozilla/5.0 (MeeGo; NokiaN9) AppleWebKit/534.13 (KHTML, like Gecko) NokiaBrowser/8.5.0 Mobile Safari/534.13'
     header12 = 'Mozilla/5.0 (Linux; U; Android 4.1; en-us; GT-N7100 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
-    header = [header1,header2,header3,header4,header5,header6,header7,header9,header9,header10,header11,header12]
+    header = [header1,header2,header3,header4,header5,header6,header7,header8,header9,header10,header11,header12]
     req.add_header('User-Agent',random.choice(header))
     # proxies = ['120.195.198.69:80','120.195.195.249:80','112.64.28.11:8090']
     # proxy = random.choice(proxies)
@@ -42,6 +42,7 @@ def get_page(url):
     b = html.find(']', a)
     return html[a:b]
 
+
 def find_imgs(url):
     try:
         html = url_open(url).decode('utf-8')
@@ -50,7 +51,7 @@ def find_imgs(url):
     img_addrs = []
 
     a = html.find('img src=')
-    while a!=-1:
+    while a != -1:
         b = html.find('.jpg',a,a+255)
         if b != -1:
             img_addrs.append(html[a+9:b+4])
@@ -62,6 +63,7 @@ def find_imgs(url):
     print img_addrs
     return img_addrs
 
+
 def save_imgs(folder,img_addrs):
     for each in img_addrs:
         if not each.startswith("http://ww"):
@@ -71,21 +73,28 @@ def save_imgs(folder,img_addrs):
             img = url_open(each)
             f.write(img)
 
-def download_mm(folder = "E:\\ooxx",pages = 1000):
+
+def download_mm(folder = "E:\\ooxx",pages_num):
     if not os.path.exists(folder):
         os.mkdir(folder)
     os.chdir(folder)
     url = "http://i.jandan.net/ooxx"
-    page_num = 1434
+    page_num = pages_num
 
-    for i in range(1434):
+    for i in range(1374):
         page_num -=1
         print page_num
         page_url = url+'/page-'+str(page_num)+'#comments'
         img_addrs = find_imgs(page_url)
         print page_url
-        save_imgs(folder,img_addrs)
-        time.sleep(random.randint(1,7))
+        save_imgs(folder, img_addrs)
+        time.sleep(random.randint(1, 7))
 
 if __name__ == '__main__':
-    download_mm()
+    pages_ini = 1314
+    while True:
+        try:
+            download_mm(pages_num=pages_ini)
+        except urllib2.HTTPError:
+            download_mm(pages_num = pages_num)
+
